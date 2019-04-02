@@ -20,8 +20,11 @@ Annotation folder contains :
 * strucure of MaskRCNN
 * documentation about configuration and maskrcnn model
 * the whole model sketch<br><br>
+<font color=red>attention:</font>
 
 # Detection result
 (Images are showed through matplotlib ,the blank around pictures really trouble me ,and cause my abandon on the code ,the probelem is left  :p )
+<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
+
 ![](https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg)
 ![](https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.3278841376282916.jpg)
