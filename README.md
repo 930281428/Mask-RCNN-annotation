@@ -29,4 +29,4 @@ Annotation folder contains :
 
 ## Future work
 It's a pity not to finish the training part , and I have no idea for completing it.Compared to mmdetection , this repo performs not so good , thus I will turn to mmdetection for better effect.<br>
-I will update `mmdetection` project with annotations at first time.You can continue to foucus [here](https://blog.csdn.net/mingqi1996/article/details/88091802)
+I will update `mmdetection` project with annotations at first time.You can continue to foucus [here](https://blog.csdn.net/mingqi1996/article/details/88091802) ,or follwe me.
