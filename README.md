@@ -19,8 +19,8 @@ Annotation folder contains :
 * strucure of ResNet-101
 * strucure of MaskRCNN
 * documentation about configuration and maskrcnn model
-* the whole model sketch<br/>
-<br>
+* the whole model sketch<br><br>
+
 # Detection result
 (Images are showed through matplotlib ,the blank around pictures really trouble me ,and cause my abandon on the code ,the probelem is left  :p )
 ![](https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg)
