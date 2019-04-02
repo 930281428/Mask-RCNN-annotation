@@ -20,10 +20,11 @@ Annotation folder contains :
 * strucure of MaskRCNN
 * documentation about configuration and maskrcnn model
 * the whole model sketch<br><br>
-<font color="green"> Some green text </font>
+
 
 # Detection result
 (Images are showed through matplotlib ,the blank around pictures really trouble me ,and cause my abandon on the code ,the probelem is left  :p )
 <div align=center><img width="600" height="600" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg"/></div>
 <div align=center><img width="600" height="600" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.3278841376282916.jpg"/></div>
-
+## Future work
+It's a pity not finish the training part , and I have no idea for completing it.Compared to mmdetection , this repo performs not so good , thus I will turn to mmdetection for better effect.You can continue foucus [here](https://blog.csdn.net/mingqi1996/article/details/88091802)
