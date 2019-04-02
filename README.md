@@ -3,7 +3,7 @@ This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The 
 Refer to the most popular `keras` implemention here :https://github.com/matterport/Mask_RCNN
 <br>
 # Getting started
-I only accomplish the annotation of the inference part and turn to another work which seems better.<br/>
+I only accomplish the annotation of the inference part and now turn to another work which seems to perform better.<br/>
 Thus merely evaluation introduction provided.  <br/>
 ## install<br/>
 No cuda files included ,the  project is friendly enough to greenhand , and develop mode is strongly recommended!! <br/>
@@ -22,10 +22,11 @@ Annotation folder contains :
 * the whole model sketch<br><br>
 
 
-# Detection result
+# Detection results
 (Images are showed through matplotlib ,the blank around pictures really trouble me ,and cause my abandon on the code ,the probelem is left  :p )
 <div align=center><img width="600" height="600" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg"/></div>
 <div align=center><img width="600" height="600" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.3278841376282916.jpg"/></div><br/>
 
 ## Future work
-It's a pity not finish the training part , and I have no idea for completing it.Compared to mmdetection , this repo performs not so good , thus I will turn to mmdetection for better effect.You can continue to foucus [here](https://blog.csdn.net/mingqi1996/article/details/88091802)
+It's a pity not to finish the training part , and I have no idea for completing it.Compared to mmdetection , this repo performs not so good , thus I will turn to mmdetection for better effect.You can continue to foucus [here](https://blog.csdn.net/mingqi1996/article/details/88091802)<br>
+I will update mmdetection project with annotations at first time.
