@@ -1,12 +1,12 @@
 # Mask-RCNN-annotation
 This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.<br />
-Refer to the most popular `keras` implemention here :https://github.com/matterport/Mask_RCNN
+Refer to the most popular `keras` implemention here :https://github.com/matterport/Mask_RCNN (honestly speaking , it doesn't perform very well , but its code is really a feast for rookies :)  )
 <br>
 # Getting started
 I only accomplish the annotation of the inference part and now turn to another work which seems to perform better.<br/>
 Thus merely evaluation introduction provided.  <br/>
 ## install<br/>
-No cuda files included ,the  project is friendly enough to greenhand , and develop mode is strongly recommended!! <br/>
+No cuda files included ,the  project is friendly enough to greenhands , and develop mode is strongly recommended!! <br/>
 ```python setup.py develop```<br/>
 
 ## Run demo.py for detection<br/>
