@@ -24,7 +24,7 @@ Annotation folder contains :
 
 # Detection result
 (Images are showed through matplotlib ,the blank around pictures really trouble me ,and cause my abandon on the code ,the probelem is left  :p )
-<div align=center><img width="800" height="800" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpgg"/></div>
+<div align=center><img width="800" height="800" src="https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg"/></div>
 
 ![](https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.7848402349160818.jpg)
 ![](https://github.com/ming71/Mask-RCNN-annotation/blob/master/output/0.3278841376282916.jpg)
