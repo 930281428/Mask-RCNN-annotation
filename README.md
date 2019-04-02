@@ -5,11 +5,11 @@ Refer to the most popular `keras` implemention here :https://github.com/matterpo
 # Geting started
 I only accomplish the annotation of the inference part and turn to another work which seems better.<br/>
 Thus merely evaluation introduction provided.  <br/>
-* **install**<br/>
-No cuda files included ,the  project is friendly enough to greenhand. <br/>
+##**install**<br/>
+No cuda files included ,the  project is friendly enough to greenhand , and develop mode is strongly recommended!! <br/>
 ```python setup.py develop```<br/>
-Develop is strongly recommended!!
-* **run demo.py for detection**<br/>
+
+##**run demo.py for detection**<br/>
 I rewrite the demo example for more custom realization.<br/>
 (and some code are different from the source in `visualize.py`)<br/>
 You only need to adjust the root directory in `demo.py` file , and run:<br/>
