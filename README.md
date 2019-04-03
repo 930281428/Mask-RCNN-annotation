@@ -12,7 +12,7 @@ No cuda files included ,the  project is friendly enough to greenhands , and deve
 ## Run demo.py for detection<br/>
 I rewrite the demo example for more custom realization , besides , some code are also different from the source in `visualize.py`<br/>
 You only need to adjust the root directory in `demo.py` file , and run:<br/>
-* ```python demo.py```
+* ```python demo.py```  <br/>
 btw , I believe the annotation can not be more elaborate for your operation , you can modify what is required by yourself.<br/>
 ## Annotation
 Annotation folder contains :
