@@ -5,7 +5,7 @@ Refer to the most popular `keras` implemention here :https://github.com/matterpo
 # Getting started
 I only accomplish the annotation of the inference part and now turn to another work which seems to perform better.<br/>
 Thus merely evaluation introduction provided.  <br/>
-## install<br/>
+## Install<br/>
 No cuda files included ,the  project is friendly enough to greenhands , and develop mode is strongly recommended!! <br/>
 ```python setup.py develop```<br/>
 
